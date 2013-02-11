@@ -1,5 +1,4 @@
 var net = require('net');
-var _=require('underscore');
 var HOST = '127.0.0.1';//Listen on localhost
 var PORT = 9000;//on port 9000
 
